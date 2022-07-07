@@ -1,0 +1,70 @@
+.container{
+    background: #efefef;
+}
+
+.mainPage{
+    margin: 10px auto;
+}
+
+#book-information{
+    width: -webkit-fill-available;
+    padding: 20px 30px;
+    background: white;
+    margin: 5px 5px;
+}
+
+#buy-product{
+    margin-block-start: 330px;
+    text-align: center;
+}
+
+#image-book{
+    padding: 40px 40px;
+    margin: 5px 5px;
+    background: white;
+}
+
+#main-information{
+    display: flex;
+}
+
+#title{
+    font-size: 30px;
+    color: #666666;
+}
+
+#price{
+    color: red;
+    font-size: 25px;
+}
+
+#product-details{
+    margin: 5px 5px;
+    background: white;
+    padding: 10px 15px;
+}
+
+#product-details h3{
+    margin: 0 auto;
+}
+
+
+#product-describe{
+    background: white;
+    padding: 10px 15px;
+    margin: 5px 5px;
+}
+
+#product-describe h3{
+    margin: 0 auto;
+}
+
+#product-describe a{
+    margin: 50px auto;  
+}
+
+#review{
+    margin: 5px 5px;
+    padding: 10px 15px;
+    background: white;
+}

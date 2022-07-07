@@ -1,0 +1,88 @@
+.container{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    background-color: #ffcc66;
+}
+
+.mainMenu{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.menu{
+    margin-block-start: 10px;
+    list-style: none;
+}
+.menu li{
+    margin-block-start: 18px;
+    float: left;
+}
+
+.menu li form{
+    padding: 6px 25px;
+}
+
+.menu li form input{
+    border: none;
+    background: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+#logo{
+    float: left;
+}
+
+.menu form a img{
+    vertical-align: middle;
+}
+
+.headerLine{
+    background-color: black;
+    width: 100%;
+    height: 2px;
+}
+
+.user a{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+
+.user{
+    float: right;
+    margin-block-start: 5px;
+}
+
+.menu-user{
+    list-style: none;
+}
+
+.menu-user li form input{
+    border: none;
+    background: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    margin-block-start: 2px;
+}
+
+.menu-user li{
+    float: left;
+    padding: 0 10px;
+}
+
+.mainPage{
+    width: 70%;
+    margin: 0 auto;
+}

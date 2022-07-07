@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.product{
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.mainPage{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.product-line{
+    display: flex;
+}
+
+.product:hover{
+    background: silver;
+}
+
+.product a{
+    font-weight: bold;
+    font-size: 15px;
+}

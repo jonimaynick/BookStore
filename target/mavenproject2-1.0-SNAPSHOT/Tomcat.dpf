@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/mavenproject2">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DBConnect" password="123456" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=BookStore" username="sa">
+    </Resource>
+</Context>
